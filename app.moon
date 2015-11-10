@@ -1,5 +1,12 @@
 lapis = require "lapis"
 
-class extends lapis.Application
-  "/": =>
-    "Welcome to Lapis #{require "lapis.version"}!"
+Episodes = require "models.episodes"
+
+class F5 extends lapis.Application
+    @enable "etlua"
+
+    [index: "/"]: =>
+        -- figure out which episodes to display
+
+    [post: "/post/:id"]: =>
+        -- now figure out what to display

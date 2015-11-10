@@ -2,4 +2,5 @@ secret.moon
 secret.lua
 *_temp/
 logs/
+static/mp3/
 nginx.conf.compiled

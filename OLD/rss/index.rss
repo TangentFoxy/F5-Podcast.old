@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<channel>
+		<atom:link href="http://f5.guard13007.com/rss" rel="self" type="application/rss+xml"/>
+		<title>F5 Podcast</title>
+		<pubDate>Thu, 17 Jul 2014 00:58:00 +0800</pubDate>
+		<lastBuildDate>Sat, 04 Apr 2015 10:51:00 +0800</lastBuildDate>
+		<generator>handcoded using other feeds as reference</generator>
+		<link>http://f5.guard13007.com</link>
+		<language>en</language>
+		<copyright><![CDATA[Guard13007]]></copyright>
+		<docs>http://f5.guard13007.com</docs>
+		<managingEditor>Guard13007 (paul.liverman.iii@gmail.com)</managingEditor>
+		<description><![CDATA[F5 is about music. Playing a variety or limited subset of music, not really sure which.]]></description>
+		<image>
+			<url>http://f5.guard13007.com/image</url>
+			<title>F5 Podcast</title>
+			<link><![CDATA[http://f5.guard13007.com]]></link>
+		</image>
+		<itunes:author>Guard13007</itunes:author>
+		<itunes:keywords>music,Guard13007,shitty,random,infrequent,stuff,techno,electro,alternate,experimental,IDM,hiphop,rap,electronic,remix,edit,mix,radio</itunes:keywords>
+		<itunes:category text="Music"/>
+		<itunes:category text="Technology">
+			<itunes:category text="Podcasting"/>
+		</itunes:category>
+		<itunes:image href="http://f5.guard13007.com/image" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:owner>
+			<itunes:name><![CDATA[Guard13007]]></itunes:name>
+			<itunes:email>paul.liverman.iii@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:summary><![CDATA[F5 is about music. Playing a variety or limited subset of music, not really sure which.]]></itunes:summary>
+		<itunes:subtitle><![CDATA[refresh for music]]></itunes:subtitle>
+		<item>
+			<title>F5 Podcast Episode X7 - The Return</title>
+			<pubDate>Sat, 04 Apr 2015 10:51:00 +0800</pubDate>
+			<link><![CDATA[http://f5.guard13007.com/post/7]]></link>
+			<itunes:image href="http://f5.guard13007.com/image" />
+			<description><![CDATA[
+				<p>Returning again to drop some good music.</p>
+
+				<p>I am bad at consistency.</p>
+
+				<ol>
+					<li>65daysofstatic - Sleepwalk City (Excerpt from Live Performance) [Wild Light]</li>
+					<li>Fatboy Roberts - Pop-a-Shot [Geek Remixed II]</li>
+					<li>Sam Lee - The Ballad of George Collins (Cosmo Sheldrake Remix)</li>
+					<li>Cosmo Sheldrake - Prefusify</li>
+					<li>SKÅL - Stål</li>
+					<li>Moderat - Bad Kingdom (Lambert Rework) Jacob Groening's Sunday Juno Remix</li>
+					<li>Kubbi - Formed by Glaciers</li>
+					<li>Muzzy Feat. Charlotte Colley - Feeling Stronger</li>
+					<li>Jon Watts - NONE SHALL PASS (Aesop Rock Cover)</li>
+				</ol>
+				]]></description>
+			<enclosure length="2696" type="audio/mpeg" url="http://f5.guard13007.com/mp3/F5%20Podcast%20Episode%20X7%20-%20The%20Return_.mp3" />
+			<itunes:duration>44:56</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords></itunes:keywords>
+			<itunes:subtitle><![CDATA[Returning again to drop some good music all over the floor.]]></itunes:subtitle>
+		</item>
+		<item>
+			<title>F5 Podcast Episode X6 - Wrapping Paper</title>
+			<pubDate>Wed, 17 Dec 2014 20:15:00 +0800</pubDate>
+			<link><![CDATA[http://f5.guard13007.com/post/6]]></link>
+			<itunes:image href="http://f5.guard13007.com/image" />
+			<description><![CDATA[
+				<p>Guess who's back?</p>
+
+				<p>Bit of a shorter episode this time around, but I was tired of not being around, so that's my excuse, and I'm sticking to it.</p>
+
+				<ol>
+					<li>Linguistics - Funked Up</li>
+					<li>Linkin Park - Nobody's Listening</li>
+					<li>Dan Bull - Bum Your Shit (feat. Joey Gzus)</li>
+					<li>Slick Rick - Mona Lisa</li>
+					<li>Beastie Boys - Intergalactic (Psymbionic Remix)</li>
+					<li>Touhou - Bad Apple (NGC 3.14 Dubstep Remix Instrumental)</li>
+					<li>Opiuo - Robo Booty</li>
+					<li>Burial - Raver</li>
+					<li>Immortal Beats - Oh Wee</li>
+				</ol>
+				]]></description>
+			<enclosure length="2040" type="audio/mpeg" url="http://f5.guard13007.com/mp3/F5%20Podcast%20Episode%20X6%20-%20Wrapping%20Paper.mp3" />
+			<itunes:duration>34:00</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords></itunes:keywords>
+			<itunes:subtitle><![CDATA[Guess who's back?]]></itunes:subtitle>
+		</item>
+		<item>
+			<title>F5 Podcast Episode X5</title>
+			<pubDate>Sat, 20 Aug 2014 22:00:00 +0800</pubDate>
+			<link><![CDATA[http://f5.guard13007.com/post/5]]></link>
+			<itunes:image href="http://f5.guard13007.com/image" />
+			<description><![CDATA[
+				<p>Two hours.</p>
+
+				<ol>
+					<li>Stanley Parable Soundtrack - Countdown (intro)</li>
+					<li>AVICII &amp; Rick Astley - Never Gonna Wake Up (mashup)</li>
+					<li>Yanivi &amp; The B.Gees - Stayin' Alive</li>
+					<li>Zeds Dead &amp; Omar LinX - Out For Blood</li>
+					<li>the MP project - Seven</li>
+					<li>Gotye - Somebody That I Used to Know (KDrew remix)</li>
+					<li>Telefon Tel Aviv - What it is without the hand that wields it</li>
+					<li>Mammals Ft. Flash Forest - Move Slower</li>
+					<li>Strategic Music - Beautiful Delusion. Part III - The Tiny Bang Story Original Soundtrack</li>
+					<li>Steve Woodzell - Abyss - Color Zen OST</li>
+					<li>Steve Woodzell - Dream - Color Zen OST</li>
+					<li>Steve Woodzell - Flow - Color Zen OST</li>
+					<li>Distance - Fallen (Vex'd Remix)</li>
+					<li>B-Complex - Three Dots</li>
+					<li>Bassnectar - Window Seat</li>
+					<li>Laura Welsh - Break The Fall (Gemini Remix)</li>
+					<li>Pleasurekraft - Tarantula (Pleasure Machines remix)</li>
+					<li>Oliver Lieb - Ear Candy</li>
+					<li>Dissident - Society Of Silver Skeletons</li>
+					<li>Younger Brother - Sleepwalker Part 2</li>
+					<li>Aphex Twin - Xtal</li>
+					<li>Gary Numan - Cars (99 Ultimix Remix)</li>
+					<li>Woodkid - Run Boy Run</li>
+					<li>Woodkid - Iron</li>
+					<li>Eminem - Rap God</li>
+					<li>Austin Wintory - Discothéque Rouge</li>
+					<li>Jake Chudnow - Lions Tigers and Apes Part II</li>
+					<li>Ace Combat 04 Original Soundtrack - Shattered Skies</li>
+				</ol>
+				]]></description>
+			<enclosure length="7503" type="audio/mpeg" url="http://f5.guard13007.com/mp3/F5%20Podcast%20Episode%20X5.mp3" />
+			<itunes:duration>2:05:03</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords></itunes:keywords>
+			<itunes:subtitle><![CDATA[Two hours.]]></itunes:subtitle>
+		</item>
+		<item>
+			<title>F5 Podcast Episode X4</title>
+			<pubDate>Fri, 29 Aug 2014 17:03:00 +0800</pubDate>
+			<link><![CDATA[http://f5.guard13007.com/post/4]]></link>
+			<itunes:image href="http://f5.guard13007.com/image" />
+			<description><![CDATA[
+				<p>Off to a rolling start, followed up with rap and electro house, finishing off with a little bit of soundtrack ambiance.<br />
+					<sub>I am aware I spelled that wrong.</sub>
+				</p>
+
+				<ol>
+					<li>Stanley Parable Soundtrack - Countdown (intro)</li>
+					<li>Rick Astley - Never Gonna Give You Up</li>
+					<li>Dan Bull - GTA V trailer: Rap Review</li>
+					<li>Apparat - Steady Uprising</li>
+					<li>Kill Paris - Baby Come Back</li>
+					<li>Mord Fustang - Milky Way</li>
+					<li>Mord Fustang - Lick The Rainbow</li>
+					<li>Haywyre - Everchanging</li>
+					<li>Deadlight Original Soundtrack - Eerie</li>
+				</ol>
+				]]></description>
+			<enclosure length="2079" type="audio/mpeg" url="http://f5.guard13007.com/mp3/F5%20Podcast%20Episode%20X4.mp3" />
+			<itunes:duration>34:39</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords></itunes:keywords>
+			<itunes:subtitle><![CDATA[Off to a rolling start, followed by electro house.]]></itunes:subtitle>
+		</item>
+		<item>
+			<title>F5 Podcast Episode X3 - A Rocky Start</title>
+			<pubDate>Fri, 08 Aug 2014 12:28:00 +0800</pubDate>
+			<link><![CDATA[http://f5.guard13007.com/post/3]]></link>
+			<itunes:image href="http://f5.guard13007.com/image" />
+			<description><![CDATA[
+				<p>Playing some rock and a touch of punk and some other random stuff. I also got a new pair of headphones prompting me to destroy a good portion of my music library due to "acceptable" audio quality not being good enough anymore.</p>
+
+				<p>Tracklist:</p>
+
+				<ol>
+					<li>Stanley Parable Soundtrack - Countdown (intro track)</li>
+					<li>Kaiser Chiefs - Oh My God</li>
+					<li>Franz Ferdinand - Take Me Out</li>
+					<li>Rancid - Red Hot Moon</li>
+					<li>Blur - Song 2 (Madeon remix)</li>
+					<li>Computer Magic - Running</li>
+					<li>LCD Soundsystem - All My Friends</li>
+					<li>Wang Chung - Space Junk</li>
+					<li>LCD Soundsystem - Pow Pow</li>
+				</ol>
+				]]></description>
+			<enclosure length="2322" type="audio/mpeg" url="http://f5.guard13007.com/mp3/F5%20Podcast%20Episode%20X3%20-%20A%20Rocky%20Start.mp3" />
+			<itunes:duration>38:42</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>music,Countdown,Stanley Parable,rock,punk,LCD Soundsystem,Wang Chung,Madeon,Kaiser Chiefs,Madeon</itunes:keywords>
+			<itunes:subtitle><![CDATA[This time we have a grab bag of some rocks and one punk, followed by other stuff.]]></itunes:subtitle>
+		</item>
+		<item>
+			<title>F5 Podcast Episode X2 - Lusine chill out speshal</title>
+			<pubDate>Sun, 27 Jul 2014 17:23:00 +0800</pubDate>
+			<link><![CDATA[http://f5.guard13007.com/post/2]]></link>
+			<itunes:image href="http://f5.guard13007.com/image" />
+			<description><![CDATA[
+				<p>I have an intro track to use across all episodes, and decided to kick off with a really nice Lusine track, which then spiraled out of control into a Lusine-focused show of just a few tracks. I feel like this episode isn't that good, but that's why they're called experimental episodes. Feedback is appreciated!</p>
+
+				<p>Tracklist:</p>
+
+				<ol>
+					<li>Stanley Parable Soundtrack - Countdown (intro track)</li>
+					<li>Lusine - Ask You</li>
+					<li>Apparat - Fuse (talkie bit)</li>
+					<li>Lusine - Gravity</li>
+					<li>Lusine - Baffle</li>
+					<li>Lusine - Double Vision</li>
+					<li>There is music everywhere - Lowp (talkie bit)</li>
+				</ol>
+				]]></description>
+			<enclosure length="1514" type="audio/mpeg" url="http://f5.guard13007.com/mp3/F5%20Podcast%20Episode%20X2%20-%20Lusine%20chill%20out%20speshal.mp3" />
+			<itunes:duration>25:14</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>Lusine,music,Countdown,Stanley Parable,apparat,small,simple</itunes:keywords>
+			<itunes:subtitle><![CDATA[Experimenting with a chill out episode focused on a single artist.]]></itunes:subtitle>
+		</item>
+		<item>
+			<title>F5 Podcast Episode X1</title>
+			<pubDate>Thu, 17 Jul 2014 00:58:00 +0800</pubDate>
+			<link><![CDATA[http://f5.guard13007.com/post/1]]></link>
+			<itunes:image href="http://f5.guard13007.com/image" />
+			<description><![CDATA[<p>The first episode of many tests before I ever actually devote proper time to this thing. Here's a tracklist:</p><ol><li>Apparat - Contradictions (Lusine Remix)</li><li>Fuckpony - I'm Burning Inside</li><li>Fuckpony - Let The Love Flow</li><li>Apparat - Cheap Thrills</li><li>Calvin Harris - I'm Not Alone (deadmau5 remix)</li><li>Apparat - Wooden</li><li>Faithless - Crazy English Summer</li><li>Florence + The Machine - Rabbit Heart (Raise It Up)</li><li>Stanley Parable Soundtrack - Countdown (used during outro talking bit)</li></ol>]]></description>
+			<enclosure length="2232" type="audio/mpeg" url="http://f5.guard13007.com/mp3/F5%20Podcast%20Episode%20X1.mp3" />
+			<itunes:duration>37:12</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>deadmau5,music,remix,mix,fuckpony,apparat,faithless,small,simple</itunes:keywords>
+			<itunes:subtitle><![CDATA[First test episode of this one thing I do.]]></itunes:subtitle>
+		</item>
+	</channel>
+</rss>
